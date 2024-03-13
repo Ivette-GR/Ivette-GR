@@ -1,9 +1,7 @@
 ### Hi there 👋
 ![Hi](https://raw.githubusercontent.com/Ivette-GR/Ivette-GR/main/Black%20%26%20White%20Modern%20Minimalist%20Data%20Analyst%20LinkedIn%20Banner16.png)
-<!--
-**Ivette-GR/Ivette-GR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## About me
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
