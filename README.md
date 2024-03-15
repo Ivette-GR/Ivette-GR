@@ -1,5 +1,4 @@
 ### Hi there 👋
- </b><img src="https://www.veed.io/view/81e27f05-31a3-42f4-b06a-6cf53e23de9d?panel=share" width="1200">
 
 ## About me
 
