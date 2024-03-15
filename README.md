@@ -1,6 +1,6 @@
 ### Hi there 👋
-<h1 align="center"><b>Hi , I'm Abdul Khalid </b><img src="https://media.giphy.com/media/2nu27DXvycsCnsj8uT/giphy.gif" width="35"></h1>
-![Hi](https://raw.githubusercontent.com/Ivette-GR/Ivette-GR/main/Black%20%26%20White%20Modern%20Minimalist%20Data%20Analyst%20LinkedIn%20Banner16.png)
+<h1 align="center"><b>Hi , I'm Abdul Khalid </b><img src="https://media.giphy.com/media/2nu27DXvycsCnsj8uT/giphy.gif" width="70"></h1>
+
 
 ## About me
 
