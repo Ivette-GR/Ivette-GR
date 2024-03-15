@@ -1,4 +1,5 @@
 ### Hi [Hi!](https://github.com/Ivette-GR/Ivette-GR/)
+![Welcome](https://github.com/blueset/blueset/raw/cda8ec1230cbee16a3a7dc52a4b2272619588233/EanaHandwritingAnimated.svg)
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=30&center=true&vCenter=true&width=600&height=100&lines=Data+Analyst;Business+Intelligence;Creative;Always+learning+new+things"></a>
