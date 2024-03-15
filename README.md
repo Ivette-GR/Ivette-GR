@@ -1,5 +1,5 @@
 ### Hi there 👋
- </b><img src="https://media.giphy.com/media/2nu27DXvycsCnsj8uT/giphy.gif" width="1200">
+ </b><img src="[https://media.giphy.com/media/2nu27DXvycsCnsj8uT/giphy.gif](https://www.veed.io/edit/81e27f05-31a3-42f4-b06a-6cf53e23de9d/elements)" width="1200">
 
 ## About me
 
