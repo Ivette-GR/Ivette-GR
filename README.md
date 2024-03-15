@@ -1,6 +1,5 @@
 ![Hi](https://raw.githubusercontent.com/Ivette-GR/Ivette-GR/main/You5.png)
 </div>
-
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Monserrat+Classic&color=%23FFDE59&size=30&center=true&vCenter=true&width=600&height=100&lines=Data+Analyst;Business+Intelligence;Creative;Always+learning+new+things"></a>
 </p>
