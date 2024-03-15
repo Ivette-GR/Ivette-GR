@@ -1,5 +1,5 @@
 ### Hi there 👋
-<h1 align="center"><b>Hi , I'm Abdul Khalid </b><img src="https://media.giphy.com/media/2nu27DXvycsCnsj8uT/giphy.gif" width="70"></h1>
+ </b><img src="https://media.giphy.com/media/2nu27DXvycsCnsj8uT/giphy.gif" width="70"></h1>
 
 
 ## About me
