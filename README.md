@@ -1,4 +1,4 @@
-![Hi](https://raw.githubusercontent.com/Ivette-GR/Ivette-GR/main/Git%20hub%202.png)
+![Hi](https://raw.githubusercontent.com/Ivette-GR/Ivette-GR/main/You4.png)
 </div>
 
 <p align="center">
