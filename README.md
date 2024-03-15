@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+(https://github.dev/Ivette-GR/Ivette-GR/blob/main/Black%20%26%20White%20Modern%20Minimalist%20Data%20Analyst%20LinkedIn%20Banner%2024.jpg)
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=30&center=true&vCenter=true&width=600&height=100&lines=Data+Analyst;Business+Intelligence;Creative;Always+learning+new+things"></a>
 </p>
