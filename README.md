@@ -2,16 +2,17 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Monserrat+Classic&color=%23FFDE59&size=30&center=true&vCenter=true&width=600&height=100&lines=Data+Analyst;Business+Intelligence;Creative;Always+learning+new+things"></a>
 </p>
-<h3>Sobre mí 🌞</h3> 
+
+## <h1>Sobre mí 🌞</h1> 
 <picture> <img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" width = 400px></picture>
  <p align="left">
-- Me apasionan las series de misterio e intriga.🕵️‍♀️
-- De hecho, mi fascinación por descubrir la verdad y resolver enigmas me ha llevado a enamorarme del análisis de datos.
-Me encanta la idea de usar la lógica, la deducción y la atención al detalle para encontrar patrones y tendencias en la información. Estoy convencida de que el análisis de datos tiene el potencial de contar historias fascinantes, generar insights valiosos y mejorar la vida de las personas.
-Detective de datos de día, detective de series de noche.
+✅Me apasionan las series de <strong>misterio e intriga</strong>.
+De hecho, mi fascinación por descubrir la verdad y resolver enigmas me ha llevado a <strong>enamorarme 🫶 del análisis de datos</strong>.📈
+Me encanta la idea de usar la lógica, la deducción y la atención al detalle para encontrar  <strong>patrones y tendencias</strong> en la información. Estoy convencida de que el análisis de datos tiene el potencial de contar historias fascinantes, generar <strong>insights valiosos</strong> y mejorar la <strong>vida</strong> de las personas.
 
--->
-<h3 align="left">Languages and Tools:</h3>
+<h3> 🕵️‍♀️Detective de datos de día, detective de series de noche.👓<h3>
+
+<h1 align="left">Languages and Tools:</h1>
 <div align="left">
 <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" tittle="Google-Cloud" width="40" height="40"/>&nbsp;
 <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/google_bigquery_logo_icon_168150.png" tittle="Big-Query" width="40" height="40"/>&nbsp;
