@@ -3,7 +3,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Monserrat+Classic&color=%23FFDE59&size=30&center=true&vCenter=true&width=600&height=100&lines=Data+Analyst;Business+Intelligence;Creative;Always+learning+new+things"></a>
 </p>
 
-## <h1>Sobre mí 🌞</h1> 
+## <h1>🌱Sobre mí </h1> 
 <picture> <img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" width = 400px></picture>
  <p align="left">
 ✅Me apasionan las series de <strong>misterio e intriga</strong>.
