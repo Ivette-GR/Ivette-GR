@@ -6,8 +6,9 @@
 <picture> <img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" width = 400px></picture>
  <p align="left">
 - Me apasionan las series de misterio e intriga.🕵️‍♀️
-- De hecho, creo que mi fascinación por descubrir la verdad y resolver enigmas me ha llevado a interesarme por el análisis de datos.
+- De hecho, mi fascinación por descubrir la verdad y resolver enigmas me ha llevado a enamorarme del análisis de datos.
 Me encanta la idea de usar la lógica, la deducción y la atención al detalle para encontrar patrones y tendencias en la información. Estoy convencida de que el análisis de datos tiene el potencial de contar historias fascinantes, generar insights valiosos y mejorar la vida de las personas.
+Detective de datos de día, detective de series de noche.
 
 -->
 <h3 align="left">Languages and Tools:</h3>
